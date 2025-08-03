@@ -67,7 +67,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NeonNetwork Rooms-only Release
+  m_text: NeonNetwork Beta
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7e7fb10ae772c8f43b3b5049a09d5b70, type: 2}
   m_sharedMaterial: {fileID: 4081373726026773551, guid: 7e7fb10ae772c8f43b3b5049a09d5b70, type: 2}
